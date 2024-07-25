@@ -1,0 +1,1 @@
+String ecom='The inspiration for the design of this chair comes from the industrial style of the first half of the the last century,which is complemented by the most modern features.';
